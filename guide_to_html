@@ -8,7 +8,8 @@
 <body style="background-color: lightblue; font-size: 30px;">
 <b style="font-size: 55px;"><i>Guide to Web Development</i></b>
 <pre>    <i><b>Table of Contents</b></i>
-    <a href="./content.html">Content...</a>
+    <a href="./content.html">Introduction...</a>
+    <a href="./HTML Basic.html"> basic html</a>
     
 
    1. Introduction
